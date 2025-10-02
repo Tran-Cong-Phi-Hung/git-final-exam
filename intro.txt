@@ -14,3 +14,10 @@ Kỹ năng:
 - Sử dụng Git và GitHub
 - Lập trình Python
 - Làm việc nhóm
+
+Kế hoạch học tập:
+- Hoàn thành tốt các môn học trong chương trình.
+- Tìm hiểu thêm về phát triển web với React và Node.js.
+- Rèn luyện kỹ năng giải thuật và cấu trúc dữ liệu.
+- Tham gia các dự án nhóm để nâng cao kỹ năng teamwork.
+- Chuẩn bị kiến thức cho thực tập và nghề nghiệp sau này.
