@@ -1,0 +1,5 @@
+Feature A: Hệ thống đăng nhập người dùng.
+- Người dùng có thể đăng ký tài khoản.
+- Người dùng có thể đăng nhập bằng email và mật khẩu.
+- Hệ thống xác thực thông tin trước khi cho truy cập.
+- Lưu thông tin đăng nhập vào cơ sở dữ liệu an toàn.
