@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi là Trần Công Phi Hùng, sinh viên năm 4.
+Hiện tại tôi đang theo học ngành Công nghệ Thông tin.
+Tôi yêu thích việc học hỏi công nghệ mới và phát triển phần mềm.
+Tôi mong muốn trở thành một lập trình viên Fullstack trong tương lai.
+Tôi thích làm việc nhóm và chia sẻ kiến thức với bạn bè.
+
+Sở thích:
+- Đọc sách
+- Chơi thể thao
+- Lập trình
+
+Kỹ năng:
+- Sử dụng Git và GitHub
+- Lập trình Python
+- Làm việc nhóm
