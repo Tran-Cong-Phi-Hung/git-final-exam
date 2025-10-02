@@ -1,5 +1,5 @@
 Giới thiệu cá nhân:
-Tôi là Trần Công Phi Hùng, sinh viên năm 4.
+Xin chào, tôi là <Trần Công Phi Hùng>, sinh viên năm 4.
 Hiện tại tôi đang theo học ngành Công nghệ Thông tin.
 Tôi yêu thích việc học hỏi công nghệ mới và phát triển phần mềm.
 Tôi mong muốn trở thành một lập trình viên Fullstack trong tương lai.
