@@ -10,3 +10,7 @@ Ngày kết thúc: 09/10/2025
 - Thứ 6: Tìm hiểu ReactJS, làm project nhỏ.  
 - Thứ 7: Viết báo cáo ngắn về quá trình học.  
 - Chủ nhật: Tổng kết, review kiến thức đã học.
+- Hoàn thành bài kiểm tra Git.
+- Ôn lại Git cơ bản.
+- Luyện thêm về merge và conflict.
+- Thực hành stash trong Git.
